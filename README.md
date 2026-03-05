@@ -4,7 +4,7 @@ This project automates the generation and email delivery of weekly sales perform
 ## Problem Statement
 Manual report generation is repetitive, time-consuming, and prone to errors.
 ## Solution
-- Built a time-driven automation script that:
+### Built a time-driven automation script that:
 - Pulls data from Sales Dashboard
 - Generates Google Docs report
 - Converts to PDF
