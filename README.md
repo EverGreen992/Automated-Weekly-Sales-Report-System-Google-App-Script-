@@ -17,7 +17,7 @@ Manual report generation is repetitive, time-consuming, and prone to errors.
 - Gmail automation
 - Time-driven triggers
 - Automation Logic
-- Function: sendWeeklySalesReport
+- Function: send Weekly Sales Report
 - Trigger: Weekly (Monday 9AM)
 - Output: PDF report
 - Delivery: Automated email
